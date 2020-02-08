@@ -442,7 +442,6 @@
                             <!-- CPD options -->
                             <minimumTokens>20</minimumTokens>
                             <ignoreIdentifiers>true</ignoreIdentifiers>
-
                         </configuration>
                     </plugin>
                     <plugin>
@@ -491,5 +490,4 @@
             </reporting>
         </profile>
     </profiles>
-
 </project>
